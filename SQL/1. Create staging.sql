@@ -1,0 +1,20 @@
+create table staging (
+	id int(10),
+    `name` varchar(100),
+	sex char(1),
+    age int(3),
+    height int(3),
+    weight int(3),
+    team varchar(100),
+    noc varchar(3),
+    games varchar(100),
+    `year` int(4),
+    season varchar(100),
+    city varchar(100),
+    sport varchar(100),
+    `event` varchar(100),
+    medal varchar(100),
+    noc_region varchar(100),
+    noc_notes varchar(100),
+    primary key (id)
+)
