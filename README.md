@@ -4,19 +4,19 @@ Welcome to the Olympic Games Data Analysis project repository! This project focu
 ## Key Features
 
 #### 🛠️ Database Setup 
-The project involves setting up a local MySQL database environment to house the Olympic Games data efficiently.
+> The project involves setting up a local MySQL database environment to house the Olympic Games data efficiently.
 
 #### 📥 Data Import
-Olympic Games results data is imported into the MySQL database, ensuring clean and structured storage for subsequent analysis.
+> Olympic Games results data is imported into the MySQL database, ensuring clean and structured storage for subsequent analysis.
 
 #### 📐 Custom Schema Design
-A tailored schema is created to organize the Olympic Games data optimally, facilitating efficient querying and analysis.
+> A tailored schema is created to organize the Olympic Games data optimally, facilitating efficient querying and analysis.
 
 #### 📊 Tableau Integration
-The MySQL database is seamlessly connected to Tableau for visualization and dashboard creation, enabling intuitive exploration of the Olympic Games data.
+> The MySQL database is seamlessly connected to Tableau for visualization and dashboard creation, enabling intuitive exploration of the Olympic Games data.
 
 #### 🔍 Exploratory Analysis
-Through Tableau dashboards, the project offers in-depth exploratory analysis of individual regions' performance across various Olympic Games metrics. Moreover, key metrics are compared across different editions of the Games, providing valuable insights into trends and patterns over time.
+> Through Tableau dashboards, the project offers in-depth exploratory analysis of individual regions' performance across various Olympic Games metrics. Moreover, key metrics are compared across different editions of the Games, providing valuable insights into trends and patterns over time.
 
 ## Repository Structure
 
