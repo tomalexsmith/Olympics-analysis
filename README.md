@@ -1,4 +1,11 @@
 # Olympics-analysis 🏅📊
+
+&nbsp;
+
+![img](https://th.bing.com/th/id/R.3b1e44147d6272f41f0be9a7e60e0835?rik=IJlpZ9Fl9j99dg&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f171-1711358_olympic-symbol-png-winter-olympics-logo.png&ehk=UbjSXoHUtC9NuVIKfkNXiorRcGRHQzJZ0OKC6BqbhkU%3d&risl=&pid=ImgRaw&r=0)
+
+&nbsp;
+
 Welcome to the Olympic Games Data Analysis project repository! This project focuses on the comprehensive analysis of Olympic Games results using SQL and Tableau visualization. By setting up a local MySQL database, importing Olympic Games results data, and designing a custom schema to efficiently store and manage the data, this project aims to provide insightful perspectives on various aspects of the Olympic Games across different regions and over time.
 
 ## Key Features
